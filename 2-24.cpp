@@ -5,7 +5,6 @@ int main(){
 
     int a {};
     int b {};
-    int x {};
 
     cout << "Ingrese un valor para a: "; cin >> a;
     cout << "El valor de a es: "; cout << a << endl;
